@@ -1,0 +1,16 @@
+.alert {
+    position: fixed;
+    top: 75px;
+    left: 63%;
+    transform: translateX(-50%);
+    padding: 10px 20px;
+    background-color: #592231;
+    color: white;
+    border-radius: 5px;
+    opacity: 0;
+    transition: opacity 0.3s ease-in;
+}
+
+.alert.show{
+    opacity: 1;
+}

@@ -1,0 +1,86 @@
+.containerForm {
+  display: flex;
+  background-color: #BF3B6C;
+  padding: 20px;
+  border-radius: 15px;
+  margin-bottom: 30px;
+}
+
+.form{
+  width: 100%;
+  text-align: center;
+}
+
+.column {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-align: left;
+}
+
+.itensForm {
+  width: 80%;
+  margin-bottom: 5px;
+}
+
+.textArea {
+  max-width: 80%;
+  height: 100px; /* Ajuste a altura conforme necessário */
+}
+
+.label {
+  margin-bottom: 5px;
+  color: #ffff;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: bold;
+}
+
+.input,
+.textArea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+  margin-top: 15px;
+}
+.select{
+  width: 107%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+  margin-top: 15px;
+}
+
+.button {
+  padding: 10px 15px;
+  margin-top: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.buttonSubmit {
+  background-color: #D99066;
+  margin-right: 10px;
+}
+
+.buttonReset {
+  background-color: #592231;
+  margin-right: 10px;
+}
+
+.buttonVoltar {
+  background-color: #BF788B;
+  padding: 9px 15px;
+  margin-top: 10px;
+}
+
+.button:hover {
+  opacity: 0.9;
+}

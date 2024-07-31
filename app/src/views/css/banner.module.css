@@ -1,0 +1,31 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.banner {
+    position: relative;
+    text-align: center;
+    background-color: #BF3B6C;
+    align-items: center;
+    margin-left: 25%;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+}
+
+.usuario {
+    margin-left: 30px;
+    display: flex;
+    align-items: center;
+}
+
+h2{
+    color: #ffff;
+}
+
+.banner p {
+    color: #ffff;
+    font-size: 1.1rem;
+    margin-left: 30px;
+}

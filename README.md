@@ -1,2 +1,2 @@
-# api-candy-gestor-java
-Repositório do Projeto de Sistema de Gestão de Doceria
+# Projeto-Sistema-Doceria
+Repositório do Projeto da doceria Landin

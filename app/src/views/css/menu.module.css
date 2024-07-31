@@ -1,0 +1,46 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.containerMenu {
+    position: fixed;
+    margin-top: -50px;
+    width: 25%;
+    height: 100%;
+    text-align: center;
+    background-color: #F2AEC1;
+    align-items: center;
+}
+
+.menuItens{
+    margin-top: 40px
+}
+
+.itensMenu{
+    padding: 10px;
+    font-size: 1rem;
+}
+
+.itensMenu{
+    padding: 10px;
+    margin: 0px 50px;
+    text-align: left;
+}
+
+a {
+    font-size: 1.1rem;
+    color: #ffff;
+    font-weight: bold;
+    text-decoration: none;
+}
+a:hover {
+    color: #BF788B;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+img {
+    margin-top: 50px;
+    width: 40%;
+}
