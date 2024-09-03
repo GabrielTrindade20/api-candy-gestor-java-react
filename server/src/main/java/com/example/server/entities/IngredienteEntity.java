@@ -46,6 +46,11 @@ public class IngredienteEntity implements Serializable{
 		this.unidade = data.unidade();
 		this.preco = data.preco();
 	}
+
+	public Long getIdIngrediente() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 	
 	 
 }
